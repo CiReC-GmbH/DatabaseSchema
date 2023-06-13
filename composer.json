@@ -42,12 +42,11 @@
     "name": "zetacomponents/database-schema",
     "type": "library",
     "require": {
-        "zetacomponents/base": "~1.8"
+        "zetacomponents/base": "1.*"
     },
     "require-dev": {
-        "phpunit/phpunit": "~9.0",
-        "zetacomponents/unit-test": "*",
-        "zetacomponents/database": "^1.5",
-        "zetacomponents/persistent-object": "^1.8"
+        "zetacomponents/unit-test": "1.*",
+        "zetacomponents/database": "1.*",
+        "zetacomponents/persistent-object": "1.*"
     }
 }
