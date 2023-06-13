@@ -43,10 +43,5 @@
     "type": "library",
     "require": {
         "zetacomponents/base": "1.*"
-    },
-    "require-dev": {
-        "zetacomponents/unit-test": "1.*",
-        "zetacomponents/database": "1.*",
-        "zetacomponents/persistent-object": "1.*"
     }
 }
